@@ -1,2 +1,2 @@
-# .github
+# Publiciser
 Publiciser Documentation
